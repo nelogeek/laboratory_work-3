@@ -165,4 +165,7 @@ struct list {
         }
         cout << endl;
     }
+
+
+
 };

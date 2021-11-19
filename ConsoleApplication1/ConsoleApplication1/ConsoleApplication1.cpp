@@ -1,15 +1,19 @@
-﻿#include "Header.h"
+﻿#include "Header_.h"
 
 
 int main() {
-    list l;
-    list l2;
-    l.push_back((char*)"1");
-    l.push_back((char*)"2");
-    l2.push_back((char*)"3");
-    l2.push_back((char*)"4");
-    list l3 = l + l2;
+    
+    Node* head1 = NULL;
+    Node* temp = new Node;
 
-    l3.print();
+    for (int i = 9; i > 0; i--) {
+        head1 = addHead(head1, i);
+    }
+    outList(head1);
+   
+    Node* head2 = reverse(head1);
+    outList(head2);      // вывод в процессе обхода списка
+    
+    
     return 0;
 }

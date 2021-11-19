@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\lokot\Desktop\Лабораторная работа №3\ConsoleApplication1\ConsoleApplication1\Header.h(49,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №3\ConsoleApplication1\ConsoleApplication1\Header.h(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Лабораторная работа №3\ConsoleApplication1\ConsoleApplication1\Header.h(92,27): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\lokot\Desktop\Лабораторная работа №3\ConsoleApplication1\Debug\ConsoleApplication1.exe
